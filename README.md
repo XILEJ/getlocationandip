@@ -1,5 +1,4 @@
-# 位置&IP获取网页小插件
-![](https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-02-02%20192605.png)  
+# 位置&IP获取网页小插件 
 使用搜狐API  
 pv.sohu.com/cityjson?ie=utf-8
 # 使用方法
